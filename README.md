@@ -1,2 +1,2 @@
-# Mobline-web-stranice
+# Mobilne-web-stranice
 Vježbe iz predmeta Mobilne web stranice
